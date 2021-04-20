@@ -1,3 +1,16 @@
 # ReadMeGenerator
+Terminal - node index.js; prompts questions for user to type or select answers
+![image](https://user-images.githubusercontent.com/79474830/115473665-bf1dcb80-a201-11eb-9a75-f905f7a1ed38.png)
+
+//
+index.js code for each question
+![image](https://user-images.githubusercontent.com/79474830/115473846-115eec80-a202-11eb-8dc3-7f4818643bc7.png)
+![image](https://user-images.githubusercontent.com/79474830/115473994-220f6280-a202-11eb-8b71-8b4e26114c20.png)
+
+index.js code for function to prompt user and will invoke writeToFile function
+![image](https://user-images.githubusercontent.com/79474830/115474108-5daa2c80-a202-11eb-9bc8-bc6fe0b755dc.png)
+
+//
 Starting files for JS ReadMe Generator:
+
 ![image](https://user-images.githubusercontent.com/79474830/115460979-87f1ef00-a1ee-11eb-8f43-4f05bb1132ff.png)
