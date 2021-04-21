@@ -40,7 +40,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What licenses are you using?',
-        choices: ['Community', 'MIT License', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0', 'Unlicense']
+        choices: [ 'MIT License', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0', 'No license']
     },
     {
         type: 'input',
