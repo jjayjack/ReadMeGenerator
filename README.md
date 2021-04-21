@@ -1,4 +1,11 @@
 # ReadMeGenerator
+//GIF running of generated ReadMe file
+![zb8H9vyvpx](https://user-images.githubusercontent.com/79474830/115631310-2ce1fa00-a2cb-11eb-8b04-eef77e97b330.gif)
+
+
+//GIF running from node index.js to created ReadMe to preview of ReadMe
+![1LHuOouG5q](https://user-images.githubusercontent.com/79474830/115630967-9281b680-a2ca-11eb-976c-f0fb05987cb1.gif)
+
 
 //Updated code to generate license badge based on user's selection
 ![image](https://user-images.githubusercontent.com/79474830/115487807-0f575680-a21f-11eb-8eb2-0c15913cc893.png)
