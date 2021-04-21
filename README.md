@@ -1,4 +1,15 @@
 # ReadMeGenerator
+
+//Updated code to generate license badge based on user's selection
+![image](https://user-images.githubusercontent.com/79474830/115487807-0f575680-a21f-11eb-8eb2-0c15913cc893.png)
+
+Updated code to generate license link based on user's selection
+![image](https://user-images.githubusercontent.com/79474830/115488201-bcca6a00-a21f-11eb-84bd-f212468249db.png)
+
+Updated code to arrange display of readMe
+![image](https://user-images.githubusercontent.com/79474830/115488310-e6839100-a21f-11eb-9113-a016cf962f56.png)
+
+
 //Generated ReadMe file from updated code
 
 ![image](https://user-images.githubusercontent.com/79474830/115477696-16c03500-a20a-11eb-99e5-aedae5865f5c.png)
