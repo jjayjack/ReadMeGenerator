@@ -4,7 +4,8 @@
 
 
 //GIF running from node index.js to created ReadMe to preview of ReadMe
-![1LHuOouG5q](https://user-images.githubusercontent.com/79474830/115630967-9281b680-a2ca-11eb-976c-f0fb05987cb1.gif)
+![ZPc3z8IOHh](https://user-images.githubusercontent.com/79474830/115632514-83e8ce80-a2cd-11eb-95c5-bca401c7a718.gif)
+
 
 
 //Updated code to generate license badge based on user's selection
