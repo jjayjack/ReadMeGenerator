@@ -70,6 +70,8 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Credits](#contributes)
   - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#email)
 
   ## Installation:
   ${data.installation}
@@ -83,10 +85,10 @@ function generateMarkdown(data) {
   ## License:
   ${renderLicenseLink(data.license)}
 
-  Tests:
+  ## Tests:
   ${data.tests}
 
-  Questions:
+  ## Questions:
   ${data.email}
   github.com/${data.github}
 `;
