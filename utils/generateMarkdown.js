@@ -66,6 +66,7 @@ function generateMarkdown(data) {
   ## Description:
   ${data.Description}
   ## Table of Contents
+  - [Links](#links)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#contributes)
@@ -73,11 +74,14 @@ function generateMarkdown(data) {
   - [Tests](#tests)
   - [Questions](#email)
 
+  ## Links:
+
   ## Installation:
   ${data.installation}
 
   ## Usage:
   ${data.usage}
+  ### Screenshots:
 
   ## Contributes:
   ${data.contributes}
